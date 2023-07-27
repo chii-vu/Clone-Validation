@@ -1,0 +1,7 @@
+Number of differences between the two files: 5
+Differing pairs:
+Pair 233: 191,1,false,Gpt3D_Clone191_1.cs 1 10,Gpt3D_Clone191_1.cs 11 24 | 191,1,true,Gpt3D_Clone191_1.cs 1 10,Gpt3D_Clone191_1.cs 11 24
+Pair 269: 209,1,false,Gpt3D_Clone209_1.cs 1 9,Gpt3D_Clone209_1.cs 10 20 | 209,1,true,Gpt3D_Clone209_1.cs 1 9,Gpt3D_Clone209_1.cs 10 20
+Pair 271: 210,3,false,Gpt3D_Clone210_3.cs 1 9,Gpt3D_Clone210_3.cs 10 21 | 210,3,true,Gpt3D_Clone210_3.cs 1 9,Gpt3D_Clone210_3.cs 10 21
+Pair 618: 373,0,false,Gpt3D_Clone373_0.cs 1 11,Gpt3D_Clone373_0.cs 12 24 | 373,0,true,Gpt3D_Clone373_0.cs 1 11,Gpt3D_Clone373_0.cs 12 24
+Pair 1749: 896,2,false,Gpt3D_Clone896_2.cs 1 21,Gpt3D_Clone896_2.cs 22 48 | 896,2,true,Gpt3D_Clone896_2.cs 1 21,Gpt3D_Clone896_2.cs 22 48

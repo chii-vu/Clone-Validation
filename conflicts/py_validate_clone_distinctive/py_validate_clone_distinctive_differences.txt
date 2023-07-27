@@ -1,0 +1,15 @@
+Number of differences between the two files: 13
+Differing pairs:
+Pair 247: 187,5,false,Gpt3D_Clone187_5.py 1 6,Gpt3D_Clone187_5.py 8 13 | 187,5,true,Gpt3D_Clone187_5.py 1 6,Gpt3D_Clone187_5.py 8 13
+Pair 437: 283,2,false,Gpt3D_Clone283_2.py 1 11,Gpt3D_Clone283_2.py 13 21 | 283,2,true,Gpt3D_Clone283_2.py 1 11,Gpt3D_Clone283_2.py 13 21
+Pair 568: 331,2,false,Gpt3D_Clone331_2.py 1 9,Gpt3D_Clone331_2.py 11 19 | 331,2,true,Gpt3D_Clone331_2.py 1 9,Gpt3D_Clone331_2.py 11 19
+Pair 697: 396,7,false,Gpt3D_Clone396_7.py 1 8,Gpt3D_Clone396_7.py 10 17 | 396,7,true,Gpt3D_Clone396_7.py 1 8,Gpt3D_Clone396_7.py 10 17
+Pair 698: 396,8,false,Gpt3D_Clone396_8.py 1 8,Gpt3D_Clone396_8.py 10 17 | 396,8,true,Gpt3D_Clone396_8.py 1 8,Gpt3D_Clone396_8.py 10 17
+Pair 777: 438,1,true,Gpt3D_Clone438_1.py 1 16,Gpt3D_Clone438_1.py 18 34 | 438,1,false,Gpt3D_Clone438_1.py 1 16,Gpt3D_Clone438_1.py 18 34
+Pair 799: 447,2,true,Gpt3D_Clone447_2.py 1 7,Gpt3D_Clone447_2.py 9 15 | 447,2,false,Gpt3D_Clone447_2.py 1 7,Gpt3D_Clone447_2.py 9 15
+Pair 844: 475,1,true,Gpt3D_Clone475_1.py 1 9,Gpt3D_Clone475_1.py 11 19 | 475,1,false,Gpt3D_Clone475_1.py 1 9,Gpt3D_Clone475_1.py 11 19
+Pair 888: 493,7,true,Gpt3D_Clone493_7.py 1 8,Gpt3D_Clone493_7.py 10 16 | 493,7,false,Gpt3D_Clone493_7.py 1 8,Gpt3D_Clone493_7.py 10 16
+Pair 1081: 579,0,false,Gpt3D_Clone579_0.py 1 10,Gpt3D_Clone579_0.py 12 20 | 579,0,true,Gpt3D_Clone579_0.py 1 10,Gpt3D_Clone579_0.py 12 20
+Pair 1285: 676,3,true,Gpt3D_Clone676_3.py 1 7,Gpt3D_Clone676_3.py 9 16 | 676,3,false,Gpt3D_Clone676_3.py 1 7,Gpt3D_Clone676_3.py 9 16
+Pair 1633: 844,1,false,Gpt3D_Clone844_1.py 1 8,Gpt3D_Clone844_1.py 10 17 | 844,1,true,Gpt3D_Clone844_1.py 1 8,Gpt3D_Clone844_1.py 10 17
+Pair 1638: 844,6,false,Gpt3D_Clone844_6.py 1 8,Gpt3D_Clone844_6.py 10 17 | 844,6,true,Gpt3D_Clone844_6.py 1 8,Gpt3D_Clone844_6.py 10 17

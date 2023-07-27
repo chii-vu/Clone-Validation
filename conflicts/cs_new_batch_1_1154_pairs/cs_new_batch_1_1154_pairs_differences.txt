@@ -1,0 +1,5 @@
+Number of differences between the two files: 3
+Differing pairs:
+Pair 537: 182,7,true,Gpt4D_Clone182_7.cs 1 27,Gpt4D_Clone182_7.cs 28 39 | 182,7,false,Gpt4D_Clone182_7.cs 1 27,Gpt4D_Clone182_7.cs 28 39
+Pair 538: 182,8,true,Gpt4D_Clone182_8.cs 1 27,Gpt4D_Clone182_8.cs 28 38 | 182,8,false,Gpt4D_Clone182_8.cs 1 27,Gpt4D_Clone182_8.cs 28 38
+Pair 539: 182,9,true,Gpt4D_Clone182_9.cs 1 27,Gpt4D_Clone182_9.cs 28 37 | 182,9,false,Gpt4D_Clone182_9.cs 1 27,Gpt4D_Clone182_9.cs 28 37

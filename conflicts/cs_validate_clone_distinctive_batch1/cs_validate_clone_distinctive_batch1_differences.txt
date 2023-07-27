@@ -1,0 +1,4 @@
+Number of differences between the two files: 2
+Differing pairs:
+Pair 1659: 804,8,false,Gpt3D_Clone804_8.cs 1 14,Gpt3D_Clone804_8.cs 15 31 | 804,8,true,Gpt3D_Clone804_8.cs 1 14,Gpt3D_Clone804_8.cs 15 31
+Pair 2061: 989,8,true,Gpt3D_Clone989_8.cs 1 21,Gpt3D_Clone989_8.cs 22 44 | 989,8,false,Gpt3D_Clone989_8.cs 1 21,Gpt3D_Clone989_8.cs 22 44

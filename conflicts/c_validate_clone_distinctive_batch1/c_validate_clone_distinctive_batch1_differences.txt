@@ -1,0 +1,11 @@
+Number of differences between the two files: 9
+Differing pairs:
+Pair 3: 101,3,false,Gpt3D_Clone101_3.c 1 9,Gpt3D_Clone101_3.c 10 24 | 101,3,true,Gpt3D_Clone101_3.c 1 9,Gpt3D_Clone101_3.c 10 24
+Pair 46: 151,8,false,Gpt3D_Clone151_8.c 1 11,Gpt3D_Clone151_8.c 12 25 | 151,8,true,Gpt3D_Clone151_8.c 1 11,Gpt3D_Clone151_8.c 12 25
+Pair 94: 203,3,false,Gpt3D_Clone203_3.c 1 13,Gpt3D_Clone203_3.c 14 34 | 203,3,true,Gpt3D_Clone203_3.c 1 13,Gpt3D_Clone203_3.c 14 34
+Pair 255: 364,9,false,Gpt3D_Clone364_9.c 1 9,Gpt3D_Clone364_9.c 10 20 | 364,9,true,Gpt3D_Clone364_9.c 1 9,Gpt3D_Clone364_9.c 10 20
+Pair 475: 566,6,false,Gpt3D_Clone566_6.c 1 11,Gpt3D_Clone566_6.c 12 23 | 566,6,true,Gpt3D_Clone566_6.c 1 11,Gpt3D_Clone566_6.c 12 23
+Pair 489: 600,2,false,Gpt3D_Clone600_2.c 1 14,Gpt3D_Clone600_2.c 15 31 | 600,2,true,Gpt3D_Clone600_2.c 1 14,Gpt3D_Clone600_2.c 15 31
+Pair 490: 600,3,false,Gpt3D_Clone600_3.c 1 14,Gpt3D_Clone600_3.c 15 31 | 600,3,true,Gpt3D_Clone600_3.c 1 14,Gpt3D_Clone600_3.c 15 31
+Pair 496: 601,5,false,Gpt3D_Clone601_5.c 1 14,Gpt3D_Clone601_5.c 15 31 | 601,5,true,Gpt3D_Clone601_5.c 1 14,Gpt3D_Clone601_5.c 15 31
+Pair 784: 915,5,false,Gpt3D_Clone915_5.c 1 9,Gpt3D_Clone915_5.c 10 28 | 915,5,true,Gpt3D_Clone915_5.c 1 9,Gpt3D_Clone915_5.c 10 28

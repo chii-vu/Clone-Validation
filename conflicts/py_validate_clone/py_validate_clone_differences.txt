@@ -1,0 +1,2 @@
+Number of differences between the two files: 0
+Differing pairs:

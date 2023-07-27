@@ -1,0 +1,18 @@
+Number of differences between the two files: 16
+Differing pairs:
+Pair 23: 467,1,true,Gpt4D_Clone467_1.cs 1 22,Gpt4D_Clone467_1.cs 23 25 | 467,1,false,Gpt4D_Clone467_1.cs 1 22,Gpt4D_Clone467_1.cs 23 25
+Pair 103: 518,5,false,Gpt4D_Clone518_5.cs 1 22,Gpt4D_Clone518_5.cs 23 41 | 518,5,true,Gpt4D_Clone518_5.cs 1 22,Gpt4D_Clone518_5.cs 23 41
+Pair 134: 534,7,true,Gpt4D_Clone534_7.cs 1 39,Gpt4D_Clone534_7.cs 40 47 | 534,7,false,Gpt4D_Clone534_7.cs 1 39,Gpt4D_Clone534_7.cs 40 47
+Pair 152: 550,3,false,Gpt4D_Clone550_3.cs 1 26,Gpt4D_Clone550_3.cs 27 42 | 550,3,true,Gpt4D_Clone550_3.cs 1 26,Gpt4D_Clone550_3.cs 27 42
+Pair 447: 671,3,true,Gpt4D_Clone671_3.cs 1 20,Gpt4D_Clone671_3.cs 21 31 | 671,3,false,Gpt4D_Clone671_3.cs 1 20,Gpt4D_Clone671_3.cs 21 31
+Pair 448: 671,4,true,Gpt4D_Clone671_4.cs 1 22,Gpt4D_Clone671_4.cs 23 32 | 671,4,false,Gpt4D_Clone671_4.cs 1 22,Gpt4D_Clone671_4.cs 23 32
+Pair 449: 671,5,true,Gpt4D_Clone671_5.cs 1 21,Gpt4D_Clone671_5.cs 22 28 | 671,5,false,Gpt4D_Clone671_5.cs 1 21,Gpt4D_Clone671_5.cs 22 28
+Pair 450: 671,6,true,Gpt4D_Clone671_6.cs 1 20,Gpt4D_Clone671_6.cs 21 29 | 671,6,false,Gpt4D_Clone671_6.cs 1 20,Gpt4D_Clone671_6.cs 21 29
+Pair 730: 801,0,true,Gpt4D_Clone801_0.cs 1 25,Gpt4D_Clone801_0.cs 26 34 | 801,0,false,Gpt4D_Clone801_0.cs 1 25,Gpt4D_Clone801_0.cs 26 34
+Pair 981: 936,1,false,Gpt4D_Clone936_1.cs 1 16,Gpt4D_Clone936_1.cs 17 23 | 936,1,true,Gpt4D_Clone936_1.cs 1 16,Gpt4D_Clone936_1.cs 17 23
+Pair 984: 936,4,false,Gpt4D_Clone936_4.cs 1 16,Gpt4D_Clone936_4.cs 17 22 | 936,4,true,Gpt4D_Clone936_4.cs 1 16,Gpt4D_Clone936_4.cs 17 22
+Pair 987: 936,7,false,Gpt4D_Clone936_7.cs 1 16,Gpt4D_Clone936_7.cs 17 22 | 936,7,true,Gpt4D_Clone936_7.cs 1 16,Gpt4D_Clone936_7.cs 17 22
+Pair 1077: 971,8,false,Gpt4D_Clone971_8.cs 1 21,Gpt4D_Clone971_8.cs 22 28 | 971,8,true,Gpt4D_Clone971_8.cs 1 21,Gpt4D_Clone971_8.cs 22 28
+Pair 1078: 971,9,false,Gpt4D_Clone971_9.cs 1 21,Gpt4D_Clone971_9.cs 22 28 | 971,9,true,Gpt4D_Clone971_9.cs 1 21,Gpt4D_Clone971_9.cs 22 28
+Pair 1122: 989,1,false,Gpt4D_Clone989_1.cs 1 25,Gpt4D_Clone989_1.cs 26 48 | 989,1,true,Gpt4D_Clone989_1.cs 1 25,Gpt4D_Clone989_1.cs 26 48
+Pair 1123: 989,2,false,Gpt4D_Clone989_2.cs 1 25,Gpt4D_Clone989_2.cs 26 47 | 989,2,true,Gpt4D_Clone989_2.cs 1 25,Gpt4D_Clone989_2.cs 26 47
